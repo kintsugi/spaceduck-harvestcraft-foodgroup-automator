@@ -1,0 +1,3 @@
+[submodule "harvestcraft"]
+	path = harvestcraft
+	url = git@github.com:MatrexsVigil/harvestcraft.git
