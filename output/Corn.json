@@ -1,0 +1,19 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:cornItem",
+            "harvestcraft:creamedcornItem",
+            "harvestcraft:cornbreadItem",
+            "harvestcraft:tortillaItem",
+            "harvestcraft:nachoesItem",
+            "harvestcraft:popcornItem",
+            "harvestcraft:coffeeconlecheItem",
+            "harvestcraft:espressoItem"
+        ]
+    },
+    "name": "Corn",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

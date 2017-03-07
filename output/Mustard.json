@@ -1,0 +1,14 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:mustardItem",
+            "harvestcraft:spicymustardporkItem",
+            "harvestcraft:softpretzelandmustardItem"
+        ]
+    },
+    "name": "Mustard",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

@@ -1,0 +1,20 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:beetsaladItem",
+            "harvestcraft:cucumbersaladItem",
+            "harvestcraft:grapesaladItem",
+            "harvestcraft:springsaladItem",
+            "harvestcraft:summerradishsaladItem",
+            "harvestcraft:summersquashwithradishItem",
+            "harvestcraft:strawberrysaladItem",
+            "harvestcraft:sunflowerbroccolisaladItem",
+            "harvestcraft:mixedsaladItem"
+        ]
+    },
+    "name": "Salads",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.5))",
+    "color": "white"
+}

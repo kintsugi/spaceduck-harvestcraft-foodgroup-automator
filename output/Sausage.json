@@ -1,0 +1,13 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:sausageItem",
+            "harvestcraft:coconutshrimpItem"
+        ]
+    },
+    "name": "Sausage",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

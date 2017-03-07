@@ -1,0 +1,19 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:appleyogurtItem",
+            "harvestcraft:applejellyItem",
+            "harvestcraft:applesauceItem",
+            "harvestcraft:applejuiceItem",
+            "harvestcraft:applesmoothieItem",
+            "harvestcraft:caramelappleItem",
+            "harvestcraft:applefritterItem",
+            "harvestcraft:applepieItem"
+        ]
+    },
+    "name": "Apple",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

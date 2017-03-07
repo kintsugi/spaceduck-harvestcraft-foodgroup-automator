@@ -1,0 +1,17 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:apricotItem",
+            "harvestcraft:apricotyogurtItem",
+            "harvestcraft:apricotjellyItem",
+            "harvestcraft:apricotglazedporkItem",
+            "harvestcraft:apricotsmoothieItem",
+            "harvestcraft:apricotjuiceItem"
+        ]
+    },
+    "name": "Apricot",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

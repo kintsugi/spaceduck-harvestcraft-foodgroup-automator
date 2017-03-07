@@ -1,0 +1,15 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:pumpkinyogurtItem",
+            "harvestcraft:pumpkinsoupItem",
+            "harvestcraft:pumpkinbreadItem",
+            "harvestcraft:pumpkinoatsconesItem"
+        ]
+    },
+    "name": "Pumpkin",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

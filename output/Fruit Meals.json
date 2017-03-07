@@ -1,0 +1,22 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:applesauceItem",
+            "harvestcraft:apricotglazedporkItem",
+            "harvestcraft:guacamoleItem",
+            "harvestcraft:mincepieItem",
+            "harvestcraft:orangechickenItem",
+            "harvestcraft:sweetandsourchickenItem",
+            "harvestcraft:cherrycoconutchocolatebarItem",
+            "harvestcraft:cranberrysauceItem",
+            "harvestcraft:poachedpearItem",
+            "harvestcraft:coconutshrimpItem",
+            "harvestcraft:fruitsaladItem"
+        ]
+    },
+    "name": "Fruit Meals",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.5))",
+    "color": "white"
+}

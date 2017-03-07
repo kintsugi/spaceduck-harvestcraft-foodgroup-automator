@@ -1,0 +1,18 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:cherryItem",
+            "harvestcraft:cherryjellyItem",
+            "harvestcraft:cherrysmoothieItem",
+            "harvestcraft:cherryjuiceItem",
+            "harvestcraft:cherrysodaItem",
+            "harvestcraft:cherrypieItem",
+            "harvestcraft:chocolatecherryItem"
+        ]
+    },
+    "name": "Cherry",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

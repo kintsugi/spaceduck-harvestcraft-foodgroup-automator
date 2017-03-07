@@ -1,0 +1,16 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:mangoItem",
+            "harvestcraft:mangochutneyItem",
+            "harvestcraft:mangojellyItem",
+            "harvestcraft:mangosmoothieItem",
+            "harvestcraft:mangojuiceItem"
+        ]
+    },
+    "name": "Mango",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

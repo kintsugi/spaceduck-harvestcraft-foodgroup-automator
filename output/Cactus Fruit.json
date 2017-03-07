@@ -1,0 +1,13 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:cactusfruitItem",
+            "harvestcraft:cactussoupItem"
+        ]
+    },
+    "name": "Cactus Fruit",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

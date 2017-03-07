@@ -1,0 +1,6 @@
+{
+    "itemJsonDir": "harvestcraft/src/main/resources/assets/harvestcraft/models/item/",
+    "languageFilePath": "harvestcraft/src/main/resources/assets/harvestcraft/lang/en_US.lang",
+    "foodGroupingFilePath": "./food-grouping.tsv",
+    "outputDir": "./output/"
+}

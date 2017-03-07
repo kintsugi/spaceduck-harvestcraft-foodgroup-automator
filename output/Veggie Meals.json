@@ -1,0 +1,41 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:grilledasparagusItem",
+            "harvestcraft:asparagusquicheItem",
+            "harvestcraft:beetburgerItem",
+            "harvestcraft:coleslawburgerItem",
+            "harvestcraft:bakedbeetsItem",
+            "harvestcraft:kimchiItem",
+            "harvestcraft:glazedcarrotsItem",
+            "harvestcraft:honeyglazedcarrotsItem",
+            "harvestcraft:chickencelerycasseroleItem",
+            "harvestcraft:sundayroastItem",
+            "harvestcraft:hushpuppiesItem",
+            "harvestcraft:supremepizzaItem",
+            "harvestcraft:grilledeggplantItem",
+            "harvestcraft:stuffedeggplantItem",
+            "harvestcraft:eggplantparmItem",
+            "harvestcraft:fishlettucewrapItem",
+            "harvestcraft:fairybreadItem",
+            "harvestcraft:vegetarianlettucewrapItem",
+            "harvestcraft:spicygreensItem",
+            "harvestcraft:okracreoleItem",
+            "harvestcraft:grilledskewersItem",
+            "harvestcraft:steamedpeasItem",
+            "harvestcraft:porklettucewrapItem",
+            "harvestcraft:veggiestirfryItem",
+            "harvestcraft:bakedturnipsItem",
+            "harvestcraft:roastedrootveggiemedleyItem",
+            "harvestcraft:zucchinibakeItem",
+            "harvestcraft:zestyzucchiniItem",
+            "harvestcraft:veggiestripsItem",
+            "harvestcraft:oldworldveggiesoupItem"
+        ]
+    },
+    "name": "Veggie Meals",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.5))",
+    "color": "white"
+}

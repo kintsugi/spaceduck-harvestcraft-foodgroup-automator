@@ -1,0 +1,22 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:eggsaladItem",
+            "harvestcraft:omeletItem",
+            "harvestcraft:baconandeggsItem",
+            "harvestcraft:yorkshirepuddingItem",
+            "harvestcraft:toadintheholeItem",
+            "harvestcraft:futomakiItem",
+            "harvestcraft:friedeggItem",
+            "harvestcraft:scrambledeggItem",
+            "harvestcraft:boiledeggItem",
+            "harvestcraft:eggnogItem",
+            "harvestcraft:marshmellowsItem"
+        ]
+    },
+    "name": "Egg",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

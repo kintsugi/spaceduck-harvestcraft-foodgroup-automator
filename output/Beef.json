@@ -1,0 +1,32 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:hamburgerItem",
+            "harvestcraft:cheeseburgerItem",
+            "harvestcraft:delightedmealItem",
+            "harvestcraft:deluxecheeseburgerItem",
+            "harvestcraft:mcpamItem",
+            "harvestcraft:onionhamburgerItem",
+            "harvestcraft:potroastItem",
+            "harvestcraft:tacoItem",
+            "harvestcraft:maplesausageItem",
+            "harvestcraft:steakandchipsItem",
+            "harvestcraft:chiliItem",
+            "harvestcraft:sausageinbreadItem",
+            "harvestcraft:beefwellingtonItem",
+            "harvestcraft:meatpieItem",
+            "harvestcraft:cornishpastyItem",
+            "harvestcraft:cottagepieItem",
+            "harvestcraft:mincepieItem",
+            "harvestcraft:beetburgerItem",
+            "harvestcraft:coleslawburgerItem",
+            "harvestcraft:fishtacoItem",
+            "harvestcraft:beefjerkyItem"
+        ]
+    },
+    "name": "Beef",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

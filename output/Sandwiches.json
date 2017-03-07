@@ -1,0 +1,28 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:hamburgerItem",
+            "harvestcraft:cheeseburgerItem",
+            "harvestcraft:delightedmealItem",
+            "harvestcraft:deluxecheeseburgerItem",
+            "harvestcraft:mcpamItem",
+            "harvestcraft:onionhamburgerItem",
+            "harvestcraft:chickensandwichItem",
+            "harvestcraft:leafychickensandwichItem",
+            "harvestcraft:grilledcheeseItem",
+            "harvestcraft:fishsandwichItem",
+            "harvestcraft:honeysandwichItem",
+            "harvestcraft:plumjellysandwichItem",
+            "harvestcraft:hotdogItem",
+            "harvestcraft:baconcheeseburgerItem",
+            "harvestcraft:bltItem",
+            "harvestcraft:bbqpulledporkItem",
+            "harvestcraft:footlongItem"
+        ]
+    },
+    "name": "Sandwiches",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.5))",
+    "color": "white"
+}

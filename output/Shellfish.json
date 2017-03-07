@@ -1,0 +1,17 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:crabcookedItem",
+            "harvestcraft:crayfishcookedItem",
+            "harvestcraft:shrimpcookedItem",
+            "harvestcraft:crabrawItem",
+            "harvestcraft:crayfishrawItem",
+            "harvestcraft:clamrawItem"
+        ]
+    },
+    "name": "Shellfish",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

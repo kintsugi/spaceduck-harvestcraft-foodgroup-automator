@@ -1,0 +1,16 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:starfruitItem",
+            "harvestcraft:starfruityogurtItem",
+            "harvestcraft:starfruitjellyItem",
+            "harvestcraft:starfruitsmoothieItem",
+            "harvestcraft:starfruitjuiceItem"
+        ]
+    },
+    "name": "Starfruit",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

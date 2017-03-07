@@ -1,0 +1,18 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:limeItem",
+            "harvestcraft:limeyogurtItem",
+            "harvestcraft:limejellyItem",
+            "harvestcraft:limesmoothieItem",
+            "harvestcraft:limejuiceItem",
+            "harvestcraft:lemonlimesodaItem",
+            "harvestcraft:keylimepieItem"
+        ]
+    },
+    "name": "Lime",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

@@ -1,0 +1,18 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:pistachiobutterItem",
+            "harvestcraft:trailmixItem",
+            "harvestcraft:roastedchestnutItem",
+            "harvestcraft:peanutbutterItem",
+            "harvestcraft:almondbutterItem",
+            "harvestcraft:cashewItem",
+            "harvestcraft:marzipanItem"
+        ]
+    },
+    "name": "Nuts",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

@@ -1,0 +1,15 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:coffeeItem",
+            "harvestcraft:coffeeconlecheItem",
+            "harvestcraft:espressoItem",
+            "harvestcraft:mochaicecreamItem"
+        ]
+    },
+    "name": "Coffee",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

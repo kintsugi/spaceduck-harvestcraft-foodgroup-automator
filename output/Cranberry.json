@@ -1,0 +1,19 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:cranberryItem",
+            "harvestcraft:cranberryyogurtItem",
+            "harvestcraft:cranberryjellyItem",
+            "harvestcraft:cranberrysauceItem",
+            "harvestcraft:hushpuppiesItem",
+            "harvestcraft:cranberrysmoothieItem",
+            "harvestcraft:cranberryjuiceItem",
+            "harvestcraft:cranberrybarItem"
+        ]
+    },
+    "name": "Cranberry",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

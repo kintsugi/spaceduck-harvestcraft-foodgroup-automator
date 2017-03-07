@@ -1,0 +1,14 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:cinnamonItem",
+            "harvestcraft:cinnamonsugardonutItem",
+            "harvestcraft:cinnamonrollItem"
+        ]
+    },
+    "name": "Cinnamon",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

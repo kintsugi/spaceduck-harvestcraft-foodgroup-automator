@@ -1,0 +1,17 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:persimmonItem",
+            "harvestcraft:persimmonyogurtItem",
+            "harvestcraft:persimmonjellyItem",
+            "harvestcraft:poachedpearItem",
+            "harvestcraft:persimmonsmoothieItem",
+            "harvestcraft:persimmonjuiceItem"
+        ]
+    },
+    "name": "Persimmon",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

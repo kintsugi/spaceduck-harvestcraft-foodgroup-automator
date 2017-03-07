@@ -1,0 +1,16 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:papayaItem",
+            "harvestcraft:papayayogurtItem",
+            "harvestcraft:papayajellyItem",
+            "harvestcraft:papayasmoothieItem",
+            "harvestcraft:papayajuiceItem"
+        ]
+    },
+    "name": "Papaya",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

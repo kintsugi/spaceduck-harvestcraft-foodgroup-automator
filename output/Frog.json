@@ -1,0 +1,14 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:fishlettucewrapItem",
+            "harvestcraft:frogcookedItem",
+            "harvestcraft:frograwItem"
+        ]
+    },
+    "name": "Frog",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

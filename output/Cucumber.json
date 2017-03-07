@@ -1,0 +1,17 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:cucumberItem",
+            "harvestcraft:cucumbersoupItem",
+            "harvestcraft:cucumbersaladItem",
+            "harvestcraft:sweetpickleItem",
+            "harvestcraft:picklesItem",
+            "harvestcraft:marinatedcucumbersItem"
+        ]
+    },
+    "name": "Cucumber",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

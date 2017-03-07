@@ -1,0 +1,19 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:raspberryItem",
+            "harvestcraft:raspberryyogurtItem",
+            "harvestcraft:raspberryjellyItem",
+            "harvestcraft:raspberrysmoothieItem",
+            "harvestcraft:raspberryjuiceItem",
+            "harvestcraft:raspberryicedteaItem",
+            "harvestcraft:raspberrypieItem",
+            "harvestcraft:jamrollItem"
+        ]
+    },
+    "name": "Raspberry",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

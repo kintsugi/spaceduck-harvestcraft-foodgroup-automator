@@ -1,0 +1,14 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:avocadoItem",
+            "harvestcraft:avocadoburritoItem",
+            "harvestcraft:guacamoleItem"
+        ]
+    },
+    "name": "Avocado",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

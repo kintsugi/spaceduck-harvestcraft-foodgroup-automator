@@ -1,0 +1,12 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:durianItem"
+        ]
+    },
+    "name": "Durian",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

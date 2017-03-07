@@ -1,0 +1,21 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:plainyogurtItem",
+            "harvestcraft:grilledcheeseItem",
+            "harvestcraft:meatfeastpizzaItem",
+            "harvestcraft:pizzaItem",
+            "harvestcraft:supremepizzaItem",
+            "harvestcraft:paneerItem",
+            "harvestcraft:chocolatemilkItem",
+            "harvestcraft:icecreamItem",
+            "harvestcraft:custardItem",
+            "harvestcraft:creamcookieItem"
+        ]
+    },
+    "name": "Dairy",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

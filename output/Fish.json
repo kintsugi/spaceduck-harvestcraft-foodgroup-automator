@@ -1,0 +1,37 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:fishsandwichItem",
+            "harvestcraft:salmonpattiesItem",
+            "harvestcraft:tunapotatoItem",
+            "harvestcraft:fishsticksItem",
+            "harvestcraft:fishandchipsItem",
+            "harvestcraft:fishdinnerItem",
+            "harvestcraft:sushiItem",
+            "harvestcraft:californiarollItem",
+            "harvestcraft:anchovyrawItem",
+            "harvestcraft:bassrawItem",
+            "harvestcraft:carprawItem",
+            "harvestcraft:catfishrawItem",
+            "harvestcraft:charrrawItem",
+            "harvestcraft:eelrawItem",
+            "harvestcraft:grouperrawItem",
+            "harvestcraft:herringrawItem",
+            "harvestcraft:jellyfishrawItem",
+            "harvestcraft:mudfishrawItem",
+            "harvestcraft:perchrawItem",
+            "harvestcraft:scalloprawItem",
+            "harvestcraft:snapperrawItem",
+            "harvestcraft:tilapiarawItem",
+            "harvestcraft:troutrawItem",
+            "harvestcraft:tunarawItem",
+            "harvestcraft:walleyerawItem",
+            "harvestcraft:greenheartfishItem"
+        ]
+    },
+    "name": "Fish",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

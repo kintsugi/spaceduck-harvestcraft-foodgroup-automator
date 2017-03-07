@@ -1,0 +1,14 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:creamedbroccolisoupItem",
+            "harvestcraft:broccolimacItem",
+            "harvestcraft:broccolindipItem"
+        ]
+    },
+    "name": "Brocolli",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

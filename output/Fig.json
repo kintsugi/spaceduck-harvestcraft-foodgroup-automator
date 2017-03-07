@@ -1,0 +1,16 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:figItem",
+            "harvestcraft:figyogurtItem",
+            "harvestcraft:figjellyItem",
+            "harvestcraft:figsmoothieItem",
+            "harvestcraft:figjuiceItem"
+        ]
+    },
+    "name": "Fig",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

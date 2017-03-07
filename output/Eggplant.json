@@ -1,0 +1,15 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:eggplantItem",
+            "harvestcraft:grilledeggplantItem",
+            "harvestcraft:stuffedeggplantItem",
+            "harvestcraft:eggplantparmItem"
+        ]
+    },
+    "name": "Eggplant",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

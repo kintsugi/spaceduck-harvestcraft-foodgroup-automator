@@ -1,0 +1,16 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:beanItem",
+            "harvestcraft:beanburritoItem",
+            "harvestcraft:refriedbeansItem",
+            "harvestcraft:bakedbeansItem",
+            "harvestcraft:beansandriceItem"
+        ]
+    },
+    "name": "Beans",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

@@ -1,0 +1,16 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:onionItem",
+            "harvestcraft:onionsoupItem",
+            "harvestcraft:braisedonionsItem",
+            "harvestcraft:naanItem",
+            "harvestcraft:grilledskewersItem"
+        ]
+    },
+    "name": "Onion",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

@@ -1,0 +1,19 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:riceItem",
+            "harvestcraft:rainbowcurryItem",
+            "harvestcraft:curryItem",
+            "harvestcraft:mushroomrisottoItem",
+            "harvestcraft:friedriceItem",
+            "harvestcraft:veggiestirfryItem",
+            "harvestcraft:ricecakeItem",
+            "harvestcraft:mochiItem"
+        ]
+    },
+    "name": "Rice",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

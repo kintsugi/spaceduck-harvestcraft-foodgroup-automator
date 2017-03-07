@@ -1,0 +1,29 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:fishtacoItem",
+            "harvestcraft:futomakiItem",
+            "harvestcraft:fishsticksItem",
+            "harvestcraft:fishandchipsItem",
+            "harvestcraft:fishdinnerItem",
+            "harvestcraft:sushiItem",
+            "harvestcraft:californiarollItem",
+            "harvestcraft:frogcookedItem",
+            "harvestcraft:calamaricookedItem",
+            "harvestcraft:clamcookedItem",
+            "harvestcraft:scallopcookedItem",
+            "harvestcraft:snailcookedItem",
+            "harvestcraft:octopuscookedItem",
+            "harvestcraft:shrimpokrahushpuppiesItem",
+            "harvestcraft:crabcookedItem",
+            "harvestcraft:crayfishcookedItem",
+            "harvestcraft:shrimpcookedItem",
+            "harvestcraft:turtlecookedItem"
+        ]
+    },
+    "name": "Fish Meals",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.5))",
+    "color": "white"
+}

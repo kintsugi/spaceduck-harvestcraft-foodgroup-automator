@@ -1,0 +1,28 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:cookedtofeakItem",
+            "harvestcraft:cookedtofaconItem",
+            "harvestcraft:cookedtofuttonItem",
+            "harvestcraft:cookedtofickenItem",
+            "harvestcraft:cookedtofabbitItem",
+            "harvestcraft:cookedtofurkeyItem",
+            "harvestcraft:cookedtofenisonItem",
+            "harvestcraft:firmtofuItem",
+            "harvestcraft:silkentofuItem",
+            "harvestcraft:rawtofeakItem",
+            "harvestcraft:rawtofaconItem",
+            "harvestcraft:rawtofuttonItem",
+            "harvestcraft:rawtofickenItem",
+            "harvestcraft:rawtofabbitItem",
+            "harvestcraft:rawtofurkeyItem",
+            "harvestcraft:rawtofenisonItem",
+            "harvestcraft:soymilkItem"
+        ]
+    },
+    "name": "Soy",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

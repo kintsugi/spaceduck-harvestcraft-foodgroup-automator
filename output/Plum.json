@@ -1,0 +1,17 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:plumItem",
+            "harvestcraft:plumyogurtItem",
+            "harvestcraft:plumjellyItem",
+            "harvestcraft:plumjellysandwichItem",
+            "harvestcraft:plumsmoothieItem",
+            "harvestcraft:plumjuiceItem"
+        ]
+    },
+    "name": "Plum",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

@@ -1,0 +1,13 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:turtlecookedItem",
+            "harvestcraft:turtlerawItem"
+        ]
+    },
+    "name": "Turtle",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

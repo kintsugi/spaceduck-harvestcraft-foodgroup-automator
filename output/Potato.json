@@ -1,0 +1,19 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:potatosoupItem",
+            "harvestcraft:hashItem",
+            "harvestcraft:butteredpotatoItem",
+            "harvestcraft:scallionbakedpotatoItem",
+            "harvestcraft:potatocakesItem",
+            "harvestcraft:loadedbakedpotatoItem",
+            "harvestcraft:potatosaladItem",
+            "harvestcraft:friesItem"
+        ]
+    },
+    "name": "Potato",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

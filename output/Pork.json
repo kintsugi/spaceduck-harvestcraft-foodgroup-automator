@@ -1,0 +1,26 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:hotdogItem",
+            "harvestcraft:baconcheeseburgerItem",
+            "harvestcraft:bltItem",
+            "harvestcraft:bbqpulledporkItem",
+            "harvestcraft:breadedporkchopItem",
+            "harvestcraft:bakedhamItem",
+            "harvestcraft:chorizoItem",
+            "harvestcraft:pepperoniItem",
+            "harvestcraft:porksausageItem",
+            "harvestcraft:bangersandmashItem",
+            "harvestcraft:batteredsausageItem",
+            "harvestcraft:ploughmanslunchItem",
+            "harvestcraft:porklomeinItem",
+            "harvestcraft:porklettucewrapItem",
+            "harvestcraft:chocolatebaconItem"
+        ]
+    },
+    "name": "Pork",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

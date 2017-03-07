@@ -1,0 +1,15 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:lettuceItem",
+            "harvestcraft:springsaladItem",
+            "harvestcraft:vegetarianlettucewrapItem",
+            "harvestcraft:spicygreensItem"
+        ]
+    },
+    "name": "Lettuce",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

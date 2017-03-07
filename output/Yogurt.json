@@ -1,0 +1,40 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:appleyogurtItem",
+            "harvestcraft:apricotyogurtItem",
+            "harvestcraft:bananayogurtItem",
+            "harvestcraft:blackberryyogurtItem",
+            "harvestcraft:blueberryyogurtItem",
+            "harvestcraft:coconutyogurtItem",
+            "harvestcraft:cranberryyogurtItem",
+            "harvestcraft:plainyogurtItem",
+            "harvestcraft:figyogurtItem",
+            "harvestcraft:grapeyogurtItem",
+            "harvestcraft:grapefruityogurtItem",
+            "harvestcraft:gooseberryyogurtItem",
+            "harvestcraft:kiwiyogurtItem",
+            "harvestcraft:lemonyogurtItem",
+            "harvestcraft:limeyogurtItem",
+            "harvestcraft:orangeyogurtItem",
+            "harvestcraft:papayayogurtItem",
+            "harvestcraft:peachyogurtItem",
+            "harvestcraft:pearyogurtItem",
+            "harvestcraft:persimmonyogurtItem",
+            "harvestcraft:plumyogurtItem",
+            "harvestcraft:pomegranateyogurtItem",
+            "harvestcraft:pumpkinyogurtItem",
+            "harvestcraft:raspberryyogurtItem",
+            "harvestcraft:rhubarbItem",
+            "harvestcraft:starfruityogurtItem",
+            "harvestcraft:strawberryyogurtItem",
+            "harvestcraft:vanillayogurtItem",
+            "harvestcraft:watermelonjellyItem"
+        ]
+    },
+    "name": "Yogurt",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.5))",
+    "color": "white"
+}

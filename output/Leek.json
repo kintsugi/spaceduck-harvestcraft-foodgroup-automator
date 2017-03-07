@@ -1,0 +1,13 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:leekItem",
+            "harvestcraft:leekbaconsoupItem"
+        ]
+    },
+    "name": "Leek",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

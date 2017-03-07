@@ -1,0 +1,19 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:blueberryItem",
+            "harvestcraft:blueberryyogurtItem",
+            "harvestcraft:blueberryjellyItem",
+            "harvestcraft:blueberrypancakesItem",
+            "harvestcraft:blueberrysmoothieItem",
+            "harvestcraft:blueberryjuiceItem",
+            "harvestcraft:blueberrypieItem",
+            "harvestcraft:blueberrymuffinItem"
+        ]
+    },
+    "name": "Blueberry",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

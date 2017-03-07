@@ -1,0 +1,16 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:kiwiItem",
+            "harvestcraft:kiwiyogurtItem",
+            "harvestcraft:kiwijellyItem",
+            "harvestcraft:kiwismoothieItem",
+            "harvestcraft:kiwijuiceItem"
+        ]
+    },
+    "name": "Kiwi",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

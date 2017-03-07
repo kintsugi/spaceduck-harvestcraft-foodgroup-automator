@@ -1,0 +1,36 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:applejellyItem",
+            "harvestcraft:apricotjellyItem",
+            "harvestcraft:blackberryjellyItem",
+            "harvestcraft:blueberryjellyItem",
+            "harvestcraft:cherryjellyItem",
+            "harvestcraft:cranberryjellyItem",
+            "harvestcraft:figjellyItem",
+            "harvestcraft:grapejellyItem",
+            "harvestcraft:grapefruitjellyItem",
+            "harvestcraft:gooseberryjellyItem",
+            "harvestcraft:kiwijellyItem",
+            "harvestcraft:lemonjellyItem",
+            "harvestcraft:limejellyItem",
+            "harvestcraft:mangochutneyItem",
+            "harvestcraft:mangojellyItem",
+            "harvestcraft:orangejellyItem",
+            "harvestcraft:papayajellyItem",
+            "harvestcraft:peachjellyItem",
+            "harvestcraft:pearjellyItem",
+            "harvestcraft:persimmonjellyItem",
+            "harvestcraft:plumjellyItem",
+            "harvestcraft:pomegranatejellyItem",
+            "harvestcraft:raspberryjellyItem",
+            "harvestcraft:starfruitjellyItem",
+            "harvestcraft:strawberryjellyItem"
+        ]
+    },
+    "name": "Jelly",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.5))",
+    "color": "white"
+}

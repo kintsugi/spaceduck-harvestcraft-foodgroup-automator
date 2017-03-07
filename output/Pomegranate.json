@@ -1,0 +1,16 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:pomegranateItem",
+            "harvestcraft:pomegranateyogurtItem",
+            "harvestcraft:pomegranatejellyItem",
+            "harvestcraft:pomegranatesmoothieItem",
+            "harvestcraft:pomegranatejuiceItem"
+        ]
+    },
+    "name": "Pomegranate",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

@@ -1,0 +1,16 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:garlicItem",
+            "harvestcraft:garlicchickenItem",
+            "harvestcraft:garlicbreadItem",
+            "harvestcraft:garlicmashedpotatoesItem",
+            "harvestcraft:spicebunItem"
+        ]
+    },
+    "name": "Garlic",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

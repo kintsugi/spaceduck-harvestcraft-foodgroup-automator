@@ -1,0 +1,14 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:radishItem",
+            "harvestcraft:summerradishsaladItem",
+            "harvestcraft:summersquashwithradishItem"
+        ]
+    },
+    "name": "Radish",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

@@ -1,0 +1,14 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:celeryItem",
+            "harvestcraft:celerysoupItem",
+            "harvestcraft:celeryandpeanutbutterItem"
+        ]
+    },
+    "name": "Celery",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

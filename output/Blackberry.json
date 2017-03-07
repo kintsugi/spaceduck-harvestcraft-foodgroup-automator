@@ -1,0 +1,17 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:blackberryItem",
+            "harvestcraft:blackberryyogurtItem",
+            "harvestcraft:blackberryjellyItem",
+            "harvestcraft:blackberrysmoothieItem",
+            "harvestcraft:blackberryjuiceItem",
+            "harvestcraft:blackberrycobblerItem"
+        ]
+    },
+    "name": "Blackberry",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

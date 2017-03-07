@@ -1,0 +1,16 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:pearItem",
+            "harvestcraft:pearyogurtItem",
+            "harvestcraft:pearjellyItem",
+            "harvestcraft:pearsmoothieItem",
+            "harvestcraft:pearjuiceItem"
+        ]
+    },
+    "name": "Pear",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

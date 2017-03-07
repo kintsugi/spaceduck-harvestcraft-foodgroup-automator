@@ -1,0 +1,21 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:grapeItem",
+            "harvestcraft:grapeyogurtItem",
+            "harvestcraft:grapejellyItem",
+            "harvestcraft:grapesaladItem",
+            "harvestcraft:raisinsItem",
+            "harvestcraft:grapesmoothieItem",
+            "harvestcraft:grapejuiceItem",
+            "harvestcraft:grapesodaItem",
+            "harvestcraft:jellydonutItem",
+            "harvestcraft:raisincookiesItem"
+        ]
+    },
+    "name": "Grape",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

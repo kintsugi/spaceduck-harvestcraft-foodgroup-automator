@@ -1,0 +1,12 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:ediblerootItem"
+        ]
+    },
+    "name": "Edible Root",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

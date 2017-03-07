@@ -1,0 +1,17 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:gingerItem",
+            "harvestcraft:gingerchickenItem",
+            "harvestcraft:gingerbreadItem",
+            "harvestcraft:gingersodaItem",
+            "harvestcraft:candiedgingerItem",
+            "harvestcraft:gingersnapsItem"
+        ]
+    },
+    "name": "Ginger",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

@@ -1,0 +1,21 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:strawberryItem",
+            "harvestcraft:strawberryyogurtItem",
+            "harvestcraft:strawberryjellyItem",
+            "harvestcraft:strawberrysaladItem",
+            "harvestcraft:strawberrysmoothieItem",
+            "harvestcraft:strawberryjuiceItem",
+            "harvestcraft:strawberrysodaItem",
+            "harvestcraft:strawberryicecreamItem",
+            "harvestcraft:strawberrypieItem",
+            "harvestcraft:chocolatestrawberryItem"
+        ]
+    },
+    "name": "Strawberry",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

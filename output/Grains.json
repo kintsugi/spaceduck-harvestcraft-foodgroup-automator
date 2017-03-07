@@ -1,0 +1,24 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:cheeseontoastItem",
+            "harvestcraft:wafflesItem",
+            "harvestcraft:pancakesItem",
+            "harvestcraft:softpretzelItem",
+            "harvestcraft:donutItem",
+            "harvestcraft:fairybreadItem",
+            "harvestcraft:toastItem",
+            "harvestcraft:biscuitItem",
+            "harvestcraft:biscuitsandgravyItem",
+            "harvestcraft:museliItem",
+            "harvestcraft:crackerItem",
+            "harvestcraft:frenchtoastItem",
+            "harvestcraft:creepercookieItem"
+        ]
+    },
+    "name": "Grains",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

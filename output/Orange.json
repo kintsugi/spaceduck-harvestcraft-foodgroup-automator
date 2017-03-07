@@ -1,0 +1,17 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:orangeItem",
+            "harvestcraft:orangeyogurtItem",
+            "harvestcraft:orangejellyItem",
+            "harvestcraft:orangesmoothieItem",
+            "harvestcraft:orangejuiceItem",
+            "harvestcraft:jaffaItem"
+        ]
+    },
+    "name": "Orange",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

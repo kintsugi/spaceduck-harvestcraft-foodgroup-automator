@@ -1,0 +1,17 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:lambbarleysoupItem",
+            "harvestcraft:honeylemonlambItem",
+            "harvestcraft:lambkebabItem",
+            "harvestcraft:lambwithmintsauceItem",
+            "harvestcraft:muttoncookedItem",
+            "harvestcraft:shepardspieItem"
+        ]
+    },
+    "name": "Mutton",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

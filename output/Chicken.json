@@ -1,0 +1,28 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:chickennoodlesoupItem",
+            "harvestcraft:chickengumboItem",
+            "harvestcraft:chickensandwichItem",
+            "harvestcraft:leafychickensandwichItem",
+            "harvestcraft:cashewchickenItem",
+            "harvestcraft:hotwingsItem",
+            "harvestcraft:chickencurryItem",
+            "harvestcraft:deluxechickencurryItem",
+            "harvestcraft:generaltsochickenItem",
+            "harvestcraft:roastchickenItem",
+            "harvestcraft:kungpaochickenItem",
+            "harvestcraft:friedchickenItem",
+            "harvestcraft:chickenchowmeinItem",
+            "harvestcraft:orangechickenItem",
+            "harvestcraft:sweetandsourchickenItem",
+            "harvestcraft:chickencelerycasseroleItem",
+            "harvestcraft:sundayroastItem"
+        ]
+    },
+    "name": "Chicken",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

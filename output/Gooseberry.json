@@ -1,0 +1,16 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:gooseberryItem",
+            "harvestcraft:gooseberryyogurtItem",
+            "harvestcraft:gooseberryjellyItem",
+            "harvestcraft:gooseberrysmoothieItem",
+            "harvestcraft:gooseberrypieItem"
+        ]
+    },
+    "name": "Gooseberry",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

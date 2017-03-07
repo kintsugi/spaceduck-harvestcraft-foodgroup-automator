@@ -1,0 +1,15 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:okraItem",
+            "harvestcraft:okracreoleItem",
+            "harvestcraft:shrimpokrahushpuppiesItem",
+            "harvestcraft:okrachipsItem"
+        ]
+    },
+    "name": "Okra",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

@@ -1,0 +1,13 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:sunflowerseedsItem",
+            "harvestcraft:sunflowerbroccolisaladItem"
+        ]
+    },
+    "name": "Sunflower Seeds",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

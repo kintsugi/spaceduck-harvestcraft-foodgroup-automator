@@ -1,0 +1,29 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:gardensoupItem",
+            "harvestcraft:seedsoupItem",
+            "harvestcraft:meatystewItem",
+            "harvestcraft:mixedsaladItem",
+            "harvestcraft:footlongItem",
+            "harvestcraft:dimsumItem",
+            "harvestcraft:sausageItem",
+            "harvestcraft:vindalooItem",
+            "harvestcraft:zombiejerkyItem",
+            "harvestcraft:sausagerollItem",
+            "harvestcraft:fruitsaladItem",
+            "harvestcraft:veggiestripsItem",
+            "harvestcraft:oldworldveggiesoupItem",
+            "harvestcraft:gravyItem",
+            "harvestcraft:stockItem",
+            "harvestcraft:roastedpumpkinseedsItem",
+            "harvestcraft:fruitpunchItem",
+            "harvestcraft:fruitcrumbleItem"
+        ]
+    },
+    "name": "NONE",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

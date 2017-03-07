@@ -1,0 +1,18 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:coconutItem",
+            "harvestcraft:coconutyogurtItem",
+            "harvestcraft:coconutcreamItem",
+            "harvestcraft:toastedcoconutItem",
+            "harvestcraft:pinacoladaItem",
+            "harvestcraft:coconutmilkItem",
+            "harvestcraft:coconutsmoothieItem"
+        ]
+    },
+    "name": "Coconut",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

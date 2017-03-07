@@ -1,0 +1,27 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:honeysandwichItem",
+            "harvestcraft:honeyglazedhamItem",
+            "harvestcraft:honeysoyribsItem",
+            "harvestcraft:charsiuItem",
+            "harvestcraft:honeyItem",
+            "harvestcraft:taffyItem",
+            "harvestcraft:caramelItem",
+            "harvestcraft:energydrinkItem",
+            "harvestcraft:honeybunItem",
+            "harvestcraft:patreonpieItem",
+            "harvestcraft:caramelicecreamItem",
+            "harvestcraft:baklavaItem",
+            "harvestcraft:gummybearsItem",
+            "harvestcraft:jellybeansItem",
+            "harvestcraft:frosteddonutItem",
+            "harvestcraft:powdereddonutItem"
+        ]
+    },
+    "name": "Honey/Sugar",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

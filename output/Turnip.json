@@ -1,0 +1,15 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:turnipItem",
+            "harvestcraft:turnipsoupItem",
+            "harvestcraft:bakedturnipsItem",
+            "harvestcraft:roastedrootveggiemedleyItem"
+        ]
+    },
+    "name": "Turnip",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

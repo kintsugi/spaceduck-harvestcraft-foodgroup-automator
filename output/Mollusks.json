@@ -1,0 +1,20 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:calamaricookedItem",
+            "harvestcraft:clamcookedItem",
+            "harvestcraft:scallopcookedItem",
+            "harvestcraft:snailcookedItem",
+            "harvestcraft:octopuscookedItem",
+            "harvestcraft:octopusrawItem",
+            "harvestcraft:calamarirawItem",
+            "harvestcraft:clamrawItem",
+            "harvestcraft:snailrawItem"
+        ]
+    },
+    "name": "Mollusks",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

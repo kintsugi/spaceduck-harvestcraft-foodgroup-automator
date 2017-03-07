@@ -1,0 +1,13 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:pineappleItem",
+            "harvestcraft:pineapplehamItem"
+        ]
+    },
+    "name": "Pineapple",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}

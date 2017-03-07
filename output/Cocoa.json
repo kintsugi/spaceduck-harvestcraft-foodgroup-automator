@@ -1,0 +1,25 @@
+{
+    "food": {
+        "oredict": [],
+        "items": [
+            "harvestcraft:cherrycoconutchocolatebarItem",
+            "harvestcraft:hotchocolateItem",
+            "harvestcraft:chocolateicecreamItem",
+            "harvestcraft:chocolaterollItem",
+            "harvestcraft:snickersbarItem",
+            "harvestcraft:nutellaItem",
+            "harvestcraft:chaoscookieItem",
+            "harvestcraft:timtamItem",
+            "harvestcraft:honeycombchocolatebarItem",
+            "harvestcraft:chocolatecaramelfudgeItem",
+            "harvestcraft:chocolatedonutItem",
+            "harvestcraft:brownieItem",
+            "harvestcraft:chilichocolateItem",
+            "harvestcraft:chocolatebarItem"
+        ]
+    },
+    "name": "Cocoa",
+    "enabled": true,
+    "formula": "MAX(0,1-(count*0.1))",
+    "color": "white"
+}
